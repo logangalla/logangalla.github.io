@@ -22,8 +22,8 @@ html, body {
 .content {
 	display: inline-block;
 	text-align: left;
-	width: 500px;
-	padding: 50px;
+	width: 31.25em;
+	padding: 3.125em;
 }
 
 h1 {
