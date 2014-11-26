@@ -37,6 +37,7 @@ p {
 
 ul.nav li {
 	display: inline-block;
+	font-size: 1em;
 	margin-bottom: .5em;
 	padding-right: 1.5em;
 }
