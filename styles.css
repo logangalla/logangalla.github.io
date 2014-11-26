@@ -72,6 +72,6 @@ ul.nav li {
 	}
 	
 	ul.nav li {
-		display: none;
+		display: block;
 	}
 }
