@@ -67,6 +67,10 @@ ul.nav li {
 		font-size: 2em;
 	}
 	
+	p {
+		font-size: 1.25em;
+	}
+	
 	ul.nav li {
 		display: block;
 		margin-bottom: 1em;
