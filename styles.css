@@ -21,7 +21,7 @@ html, body {
 
 h1 {
 	font-size: 1.5em;
-	margin-bottom: .5em;
+	margin-bottom: -.5em;
 	font-weight: bold;
 }
 
@@ -30,12 +30,9 @@ p {
 }
 
 ul.nav li {
-	list-style: none;
+	list-style-type: none;
+	list-style-position: outside;
 	display: inline-block;
 	padding-right: 1.5em;
-}
-
-li {
-	margin-bottom: .875em;
 }
 
