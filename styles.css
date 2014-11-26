@@ -62,4 +62,8 @@ ul.nav li {
 	.content {
 		width: 90%;
 	}
+	
+	h1 {
+		font-size: 3em;
+	}
 }
