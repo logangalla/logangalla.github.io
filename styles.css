@@ -29,22 +29,31 @@ h1 {
 	font-size: 1.5em;
 	margin-bottom: .25em;
 	font-weight: bold;
+	color: #363634;
 }
 
 p {
 	margin-bottom: 3em;
+	color: #363634;
 }
+
+a {
+	color: #61C791;
+	font-weight: 700;
+	text-decoration: none;
+	-webkit-transition: ease-out 0.5s;
+}
+
+	a:hover {
+		color: #363634;
+		-webkit-transition: ease 0.5s;
+	}
 
 ul.nav li {
 	display: inline-block;
 	font-size: 1em;
 	margin-bottom: .5em;
 	padding-right: 1.5em;
-}
-
-a {
-	color: #8cbec7;
-	font-weight: 700;
-	text-decoration: none;
+	-webkit-transition: ease 0.5s;
 }
 
