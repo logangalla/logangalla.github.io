@@ -16,14 +16,6 @@ html, body {
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
-
-}
-
-.content {
-	display: inline-block;
-	text-align: left;
-	width: 31.25em;
-	padding: 3.125em;
 	-webkit-animation-name: fadeInLeft .5s;
 	-moz-animation-name: fadeInLeft .5s;
 	-ms-animation-name: fadeInLeft .5s;
@@ -32,6 +24,14 @@ html, body {
 	-webkit-animation-fill-mode: both;
 	-moz-animation-fill-mode: both;
 	-ms-animation-fill-mode: both;
+
+}
+
+.content {
+	display: inline-block;
+	text-align: left;
+	width: 31.25em;
+	padding: 3.125em;
 }
 
 h1 {
