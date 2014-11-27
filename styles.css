@@ -16,9 +16,8 @@ html, body {
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
-	-webkit-animation-name: fadeInLeft .5s;
-	-webkit-animation-delay: 1.5s;
-	-ms-animation-fill-mode: both;
+	-webkit-animation: fadeInLeft .5s;
+	-webkit-animation-fill-mode: both;
 
 }
 
