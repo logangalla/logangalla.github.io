@@ -78,3 +78,17 @@ ul.nav li {
 		margin-bottom: 1em;
 	}
 }
+
+@media screen and (max-width:1115px) {
+	h1 {
+		font-size: 2em;
+	}
+	
+	p {
+		font-size: 1.25em;
+	}
+	
+	ul.nav li {
+		font-size: 1.25em;
+	}
+}
