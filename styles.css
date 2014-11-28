@@ -60,6 +60,24 @@ ul.nav li {
 	-webkit-transition: ease 0.5s;
 }
 
+@media screen and (max-width:1115px) {
+	.content {
+		width: 50%;
+	}
+	
+	h1 {
+		font-size: 2em;
+	}
+	
+	p {
+		font-size: 1.25em;
+	}
+	
+	ul.nav li {
+		font-size: 1.25em;
+	}
+}
+
 @media screen and (max-width:750px) {
 	.content {
 		width: 80%;
@@ -79,7 +97,7 @@ ul.nav li {
 	}
 }
 
-@media screen and (max-width:1115px) {
+@media screen and (max-width:990px) {
 	.content {
 		width: 50%;
 	}
@@ -94,5 +112,6 @@ ul.nav li {
 	
 	ul.nav li {
 		font-size: 1.25em;
+		display: block;
 	}
 }
