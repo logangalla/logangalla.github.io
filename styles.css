@@ -12,6 +12,10 @@ html, body {
 	font-family: "futura-pt";
 }
 
+::selection {
+	background: #a8d8be;
+}
+
 .container {
 	display: table-cell;
 	text-align: center;
