@@ -10,6 +10,7 @@ html, body {
 	height: 100%;
 	display: table;
 	font-family: "Work Sans", helvetica neue, sans-serif;
+	letter-spacing: -1px;
 }
 
 ::selection {
