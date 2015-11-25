@@ -10,7 +10,6 @@ html, body {
 	height: 100%;
 	display: table;
 	font-family: "Work Sans", helvetica neue, sans-serif;
-	letter-spacing: -1px;
 }
 
 ::selection {
@@ -35,7 +34,7 @@ html, body {
 h1 {
 	font-size: 4em;
 	margin-bottom: .176em;
-	font-weight: 700;
+	font-weight: 600;
 	color: #363634;
 }
 
@@ -47,7 +46,7 @@ p {
 
 a {
 	color: #61C791;
-	font-weight: 700;
+	font-weight: 600;
 	text-decoration: none;
 	-webkit-transition: ease-out 0.5s;
 }
