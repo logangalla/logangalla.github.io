@@ -34,7 +34,7 @@ html, body {
 h1 {
 	font-size: 4em;
 	margin-bottom: .176em;
-	font-weight: 300;
+	font-weight: 400;
 	color: #363634;
 }
 
@@ -46,7 +46,7 @@ p {
 
 a {
 	color: #61C791;
-	font-weight: 300;
+	font-weight: 400;
 	text-decoration: none;
 	-webkit-transition: ease-out 0.5s;
 }
