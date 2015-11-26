@@ -10,7 +10,6 @@ html, body {
 	height: 100%;
 	display: table;
 	font-family: 'News Cycle', helvetica neue, sans-serif;
-	letter-spacing: -1px;
 }
 
 ::selection {
